@@ -7,7 +7,7 @@
  - EVM Address
 
 # One Click Installation
-- install screen (jika belum terinstak)
+- install screen (jika belum terinstall)
 ```
 sudo apt install screen -y
 ```
