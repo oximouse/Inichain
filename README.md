@@ -24,6 +24,8 @@ screen -S inichain
 wget -O inichain.sh https://raw.githubusercontent.com/oximouse/Airdrop/main/inichain.sh && chmod +x inichain.sh && ./inichain.sh
 ```
 
+Masukan Address dan nama worker (jika menggunakan multi vps, gunakan nama worker yang berbeda. contoh : worker01, worker 02) 
+
 # keluar dan masuk kembali ke sesi
 
 keluar sesi dengan CTRL+A D
