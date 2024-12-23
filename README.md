@@ -8,12 +8,14 @@
 
 # One Click Installation
 ```
-wget -O inichain.sh https://raw.githubusercontent.com/oximouse/Airdrop/main/inichain.sh && chmod +x inichain.sh && ./inichain.sh ```
+wget -O inichain.sh https://raw.githubusercontent.com/oximouse/Airdrop/main/inichain.sh && chmod +x inichain.sh && ./inichain.sh
+```
 
 # Untuk Memeriksa Logs
 
 ```
-screen -r inichain ```
+screen -r inichain
+```
 
 keluar sesi dengan CTRL+A D
 
