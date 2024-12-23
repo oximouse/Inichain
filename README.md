@@ -10,7 +10,8 @@
 ```
 wget -O inichain.sh https://raw.githubusercontent.com/oximouse/Airdrop/main/inichain.sh && chmod +x inichain.sh && ./inichain.sh ```
 
-Untuk Memeriksa Logs
+# Untuk Memeriksa Logs
+
 ```
 screen -r inichain ```
 
