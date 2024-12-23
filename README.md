@@ -2,9 +2,9 @@
 
 # Requirements 
 
--- Vps Linux
--- Spek 8GB 4vCPU up Recommend
--- EVM Address
+ - Vps Linux
+ - Spek 8GB 4vCPU up Recommend
+ - EVM Address
 
 # One Click Installation
 ```
@@ -22,9 +22,11 @@ keluar sesi dengan CTRL+A D
 # Additional
 
 Periksa aktifitas mining
+
 https://genesis-testnet.yatespool.com/
 
 explorer
+
 https://genesis-testnet.iniscan.com/
 
 # Support
